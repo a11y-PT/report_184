@@ -1,5 +1,5 @@
 ---
-app: "nome_do_aplicacao_movel"          # Entre as aspas escreve o nome da app
+app: "Portal do SIGAME App Android"          # Entre as aspas escreve o nome da app
 date: "13/08/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
 uri: "https://sigame.chpvvc.min-saude.pt"   # Entre as aspas escreve o endereço da app na loja
 a11y_statement: "https://sigame.chpvvc.min-saude.pt/acessibilidade/" # Entre as aspas escreve o URL da Declaração de Acessibilidade da App. A declaração da App está num URL público
