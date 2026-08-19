@@ -2,7 +2,7 @@
 app: "Portal do SIGAME App Android"          # Entre as aspas escreve o nome da app
 date: "13/08/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
 uri: "https://play.google.com/store/apps/details?id=com.chpvvc.sigame&pcampaignid=web_share"   # Entre as aspas escreve o endereço da app na loja
-a11y_statement: "https://sigame.chpvvc.min-saude.pt/acessibilidade/" # Entre as aspas escreve o URL da Declaração de Acessibilidade da App. A declaração da App está num URL público
+a11y_statement: "https://sigame.chpvvc.min-saude.pt/accessibility-declaration" # Entre as aspas escreve o URL da Declaração de Acessibilidade da App. A declaração da App está num URL público
 owner: "Ministério da Saúde"         # Entre as aspas escrever o nome do owner da app
 seal: "Ouro"                          # Entre as aspas escreve Bronze, Prata ou Ouro
 validity: "dd/mm/aaaa a dd/mm/aaaa" # Entre as aspas escreve data de início e data de fim no formato 31/12/1999 a 31/12/2000
